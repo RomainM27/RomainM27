@@ -2,6 +2,8 @@
 <h1 align="center">  Hi there 👋</h1>
  
 Passionate about new technologies and web development. I'm Training to be Junior Web Developer at BeCode and I'm Currently in my 2nd year of Bachelor in IT management
+
+if you want to see my projects : [My github page](https://github.com/RomainM27/AllProject_Romain-Mathieu)
 <!--
 **RomainM27/RomainM27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
