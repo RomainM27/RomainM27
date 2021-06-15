@@ -1,5 +1,5 @@
 
-<h1 align="center">  Hi there 👋<h1>
+<h1 align="center">  Hi there 👋</h1>
  
 Passionate about new technologies and web development. I'm Training to be Junior Web Developer at BeCode and I'm Currently in my 2nd year of Bachelor in IT management
 <!--
