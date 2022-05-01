@@ -1,7 +1,9 @@
 
 <h1 align="center">  Hi there 👋</h1>
  
-Passionate about new technologies and web development. I'm a Junior Web Developer at Vertuoza and I'm Currently in my 3nd year of Bachelor in IT management
+Passionate about new technologies and web development especially in Laravel and Vue. 
+
+I'm a Junior Web Developer at Vertuoza and I'm Currently in my 3nd year of Bachelor in IT management
 
 <!-- if you want to see my projects : [My github page](https://github.com/RomainM27/AllProject_Romain-Mathieu) -->
 <!--
