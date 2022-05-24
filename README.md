@@ -9,6 +9,9 @@ I'm a Junior Web Developer at Vertuoza and I'm Currently in my 3nd year of Bache
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+   <img src="https://raw.githubusercontent.com/github/explore/5…0ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+
+ 
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vuejs" alt="Vuejs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;
