@@ -1,8 +1,7 @@
 
 <h1 align="center">  Hi there 👋</h1>
  
-Passionate about new technologies and web development especially in Laravel and Vue. 
-
+Passionate about new technologies and web development
 I'm a Web Developer at Vertuoza
 
 ---
