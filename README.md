@@ -3,7 +3,7 @@
  
 Passionate about new technologies and web development especially in Laravel and Vue. 
 
-I'm a Junior Web Developer at Vertuoza and I'm Currently in my 3nd year of Bachelor in IT management
+I'm a Web Developer at Vertuoza
 
 ---
 
